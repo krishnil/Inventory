@@ -11,3 +11,7 @@ I created a JavaFX application with a GUI based on a given Mock-up using SceneBu
   * Producing applications using Java programming language constructs.
   * Incorporating simple exception handling in application development for improving user experience and application stability.
   * Developing user interfaces. 
+
+![alt text][logo]
+
+[logo]: https://github.com/krishnil/Inventory/blob/master/GUI.png "GUI"
